@@ -11,8 +11,8 @@ Trong khoa học máy tính, một ngăn xếp (còn gọi là bộ xếp chồn
 Video cài đặt stack: https://youtu.be/VV0LfA-xmLo
 
 ### 1. Queue 
-Hàng đợi(tiếng anh: Queue) là một cấu trúc dữ liệu dùng để lưu giữ các đối tượng theo cơ chế FIFO (viết tắt từ tiếng Anh: First In First Out), nghĩa là “vào trước ra trước”.
-Hình ảnh về hàng đợi rất hay gặp trong đời sống hàng ngày, hình ảnh việc xếp hàng dưới đây là một mô phỏng dễ hiểu nhất cho cấu trúc dữ liệu hàng đợi(queue): Người vào đầu tiên sẽ được tiến đón đầu tiên;Người mới vào bắt buộc phải xếp hàng ở phía cuối.
+Hàng đợi (tiếng anh: Queue) là một cấu trúc dữ liệu dùng để lưu giữ các đối tượng theo cơ chế FIFO (viết tắt từ tiếng Anh: First In First Out), nghĩa là “vào trước ra trước”.
+Hình ảnh về hàng đợi rất hay gặp trong đời sống hàng ngày, hình ảnh việc xếp hàng dưới đây là một mô phỏng dễ hiểu nhất cho cấu trúc dữ liệu hàng đợi(queue): Người vào đầu tiên sẽ được tiến đón đầu tiên;Người mới vào bắt buộc phải xếp hàng ở phía cuối. Các bạn sẽ thấy đây là cấu trúc "công bằng" hơn stack đúng không :D
 
 *Hình ảnh minh họa cho stack:
 
